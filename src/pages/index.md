@@ -53,7 +53,7 @@ sections:
         actions_align: left
         image: images/icon-1.svg
         image_alt: Icon 1
-        image_align: left
+        image_align: center
         image_has_padding: true
         image_position: top
       - title: Sentinel
