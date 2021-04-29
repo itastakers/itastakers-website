@@ -84,7 +84,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: button
+            style: secondary
             has_icon: false
             icon: arrow-right
             icon_position: center
