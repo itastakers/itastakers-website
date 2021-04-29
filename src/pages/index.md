@@ -100,15 +100,19 @@ sections:
           Get color-bello notifications for easy viewing at a glance. Your tasks
           and appointments show up conveniently in one place.
         content_align: left
-        actions: []
+        actions:
+          - label: Delega Ora
+            url: /
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
         actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
+        image: images/icon-3.svg
+        image_alt: Icon 3
+        image_align: center
+        image_has_padding: true
         image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Juno
         title_align: left
         content: Smart Contract Network
