@@ -16,7 +16,7 @@ sections:
       - label: Medium
         url: /pricing
         style: secondary
-      - label: lorem-ipsum
+      - label: lorem-ipsu
         url: '#'
         style: link
         has_icon: false
