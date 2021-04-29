@@ -131,7 +131,6 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-        type: grid_item
       - title: Desmos
         subtitle: lorem-ipsum
         title_align: left
