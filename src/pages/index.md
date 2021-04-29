@@ -55,7 +55,7 @@ sections:
         image_alt: Icon 1
         image_align: left
         image_has_padding: true
-        image_position: top
+        image_position: right
       - title: Sentinel
         title_align: left
         content: >-
