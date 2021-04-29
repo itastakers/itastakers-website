@@ -17,7 +17,7 @@ sections:
         url: /pricing
         style: secondary
       - label: Telegram
-        url: '#'
+        url: 'https://t.me/ITAStakers'
         style: link
         has_icon: false
         icon: arrow-left
