@@ -89,7 +89,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/icon-3.svg
+        image: images/persistence-logo.svg
         image_alt: Icon 3
         image_align: center
         image_has_padding: true
