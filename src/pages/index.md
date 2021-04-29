@@ -82,7 +82,7 @@ sections:
           and appointments show up conveniently in one place.
         content_align: left
         actions:
-          - label: Learn More
+          - label: Delega
             url: /style-guide
             style: secondary
             has_icon: false
