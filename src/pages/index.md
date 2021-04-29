@@ -16,7 +16,7 @@ sections:
       - label: Medium
         url: /pricing
         style: secondary
-      - label: lorem-ipsum
+      - label: Telegram
         url: '#'
         style: link
         has_icon: false
