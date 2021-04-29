@@ -80,7 +80,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: center
-            text: Delega
         actions_align: left
         image: images/icon-3.svg
         image_alt: Icon 3
