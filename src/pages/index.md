@@ -44,10 +44,10 @@ sections:
           place so you know exactly where you need to be at any given time.
         content_align: left
         actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
+          - label: Delega Ora
+            url: /
+            style: secondary
+            has_icon: false
             icon: arrow-right
             icon_position: center
         actions_align: left
