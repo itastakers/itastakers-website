@@ -67,7 +67,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Persistences
+      - title: Persistence
         title_align: left
         content: >-
           Get color-coded notifications for easy viewing at a glance. Your tasks
