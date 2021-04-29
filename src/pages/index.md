@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/icon-1.svg
+        image: images/bitsong-logo.png
         image_alt: Icon 1
         image_align: center
         image_has_padding: true
@@ -117,7 +117,8 @@ sections:
         title_align: left
         content: >-
           Get color-bello notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.        content_align: left
+          and appointments show up conveniently in one place.       
+          content_align: left
         actions:
           - label: Delega Ora
             url: /
