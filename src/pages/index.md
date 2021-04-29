@@ -94,25 +94,6 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-      - title: Juno
-        title_align: left
-        content: Smart Contract Network
-        content_align: left
-        actions:
-          - label: Delega Ora
-            url: /
-            style: secondary
-            has_icon: false
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        actions_width: auto
-        image: images/icon-3.svg
-        image_alt: Icon 3
-        image_align: center
-        image_has_padding: true
-        image_position: top
-        type: grid_item
       - title: IRIS Hub
         subtitle: lorem-ipsum
         title_align: left
@@ -136,6 +117,25 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        type: grid_item
+      - title: Juno
+        title_align: left
+        content: Smart Contract Network
+        content_align: left
+        actions:
+          - label: Delega Ora
+            url: /
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        actions_width: auto
+        image: images/icon-3.svg
+        image_alt: Icon 3
+        image_align: center
+        image_has_padding: true
+        image_position: top
         type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
