@@ -13,7 +13,7 @@ sections:
       - label: I nostri Network
         url: /pricing
         style: primary
-      - label: Pannello Utente
+      - label: Medium
         url: /pricing
         style: secondary
     image: images/hero.svg
