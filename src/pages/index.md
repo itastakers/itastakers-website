@@ -102,6 +102,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
+        image: images/icon-3.svg
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
