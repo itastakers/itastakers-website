@@ -89,9 +89,9 @@ sections:
       - title: Juno
         title_align: left
         content: >-
-        Get color-coded notifications for easy viewing at a glance. Your tasks
-        and appointments show up conveniently in one place.
-        content_align: left
+            Get color-coded notifications for easy viewing at a glance. Your tasks
+            and appointments show up conveniently in one place.
+            content_align: left
         actions:
         - label: Learn More
             url: /style-guide
