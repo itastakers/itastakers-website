@@ -89,11 +89,11 @@ sections:
     - title: Persistence
         title_align: left
         content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        Get color-coded notifications for easy viewing at a glance. Your tasks
+        and appointments show up conveniently in one place.
         content_align: left
         actions:
-          - label: Learn More
+        - label: Learn More
             url: /style-guide
             style: link
             has_icon: true
