@@ -94,7 +94,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-      - title: lorem-ipsum
+      - title: Juno
         subtitle: lorem-ipsum
         title_align: left
         content: >-
