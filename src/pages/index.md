@@ -103,11 +103,10 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/icon-3.svg
-        image_alt: lorem-ipsum
+        image_alt: Icon 3
+        image_align: center
+        image_has_padding: true
         image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
         type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
