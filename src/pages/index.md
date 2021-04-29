@@ -25,7 +25,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: I nostri Network
-    subtitle: ITA Stakers
+    subtitle: Proof of Stake Validators
     align: center
     grid_items:
       - title: Right When You Need It
