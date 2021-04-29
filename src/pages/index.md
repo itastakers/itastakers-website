@@ -4,10 +4,11 @@ sections:
   - type: hero_section
     title: ITA Stakers
     subtitle: 'Community italiana su Proof of Stake, cryptovalute e Blockchain!'
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Siamo appassionati, sviluppatori e ci piace contribuire a progetti open
+      source relativi al mondo PoS, Cryptovalute e Blockchain.  Forniamo servizi
+      di Validazione su alcune delle più importanti chain degli ecosistemi
+      Cosmos & Polkadot.
     actions:
       - label: App Store
         url: /pricing
