@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About App Land?
+    title: I nostri Network
     subtitle: In a Glance
     align: center
     grid_items:
