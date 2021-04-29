@@ -70,7 +70,7 @@ sections:
       - title: Persistence
         title_align: left
         content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
+          Get color-bello notifications for easy viewing at a glance. Your tasks
           and appointments show up conveniently in one place.
         content_align: left
         actions:
