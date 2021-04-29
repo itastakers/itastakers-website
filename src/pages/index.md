@@ -23,7 +23,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: true
-        no_follow: false
+        no_follow: true
         type: action
     image_alt: Hero section placeholder image
     media_position: left
