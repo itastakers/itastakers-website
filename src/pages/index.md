@@ -54,7 +54,7 @@ sections:
         image: images/bitsong-logo.png
         image_alt: Icon 1
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         image_position: top
       - title: Sentinel
         title_align: left
