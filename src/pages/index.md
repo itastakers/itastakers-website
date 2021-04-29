@@ -29,7 +29,7 @@ sections:
     subtitle: Proof of Stake Validators
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: BitSong
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
