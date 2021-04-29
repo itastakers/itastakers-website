@@ -99,7 +99,13 @@ sections:
         content: >-
           Smart Contract Network
         content_align: left
-        actions: []
+        actions:
+          - label: Delega Ora
+            url: /
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
         actions_align: left
         actions_width: auto
         image: images/icon-3.svg
