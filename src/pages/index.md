@@ -135,16 +135,8 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Get color-bello notifications for easy viewing at a glance. Your tasks
+          and appointments show up conveniently in one place.
         content_align: left
         actions:
           - label: Delega Ora
