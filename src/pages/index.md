@@ -5,10 +5,10 @@ sections:
     title: ITA Stakers
     subtitle: 'Community italiana su Proof of Stake, cryptovalute e Blockchain!'
     content: >
-      Siamo appassionati, sviluppatori e ci piace contribuire a progetti open
-      source relativi al mondo PoS, Cryptovalute e Blockchain.  Forniamo servizi
-      di Validazione su alcune delle più importanti chain degli ecosistemi
-      Cosmos & Polkadot.
+      Siamo appassionati di crypto, sviluppatori, stakers e ci piace contribuire
+      a progetti open source relativi al mondo PoS, Cryptovalute e Blockchain. 
+      Forniamo servizi di Validazione su alcune delle più importanti chain degli
+      ecosistemi Cosmos & Polkadot.
     actions:
       - label: I nostri Network
         url: /pricing
