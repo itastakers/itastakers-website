@@ -146,15 +146,19 @@ sections:
 
           - dolor sit amet
         content_align: left
-        actions: []
+        actions:
+          - label: Delega Ora
+            url: /
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
         actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
+        image: images/icon-3.svg
+        image_alt: Icon 3
+        image_align: center
+        image_has_padding: true
         image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
