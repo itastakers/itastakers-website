@@ -19,7 +19,7 @@ sections:
       - label: Telegram
         url: 'https://t.me/ITAStakers'
         style: secondary
-        has_icon: true
+        has_icon: false
         icon: arrow-left
         icon_position: right
         new_window: false
