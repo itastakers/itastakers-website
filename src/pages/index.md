@@ -10,7 +10,7 @@ sections:
       di Validazione su alcune delle più importanti chain degli ecosistemi
       Cosmos & Polkadot.
     actions:
-      - label: App Store
+      - label: I nostri Network
         url: /pricing
         style: primary
       - label: Google Play
