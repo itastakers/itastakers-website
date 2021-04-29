@@ -63,10 +63,10 @@ sections:
           computer or tablet. See all your dates and info anywhere you are.
         content_align: left
         actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
+          - label: Delega Ora
+            url: /
+            style: secondary
+            has_icon: false
             icon: arrow-right
             icon_position: center
         actions_align: left
