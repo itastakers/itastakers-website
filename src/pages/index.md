@@ -72,7 +72,7 @@ sections:
         actions_align: left
         image: images/icon-2.svg
         image_alt: Icon 2
-        image_align: left
+        image_align: center
         image_has_padding: true
         image_position: top
       - title: Persistence
