@@ -113,7 +113,7 @@ sections:
         image_has_padding: true
         image_position: top
         type: grid_item
-      - title: lorem-ipsum
+      - title: IRIS Hub
         subtitle: lorem-ipsum
         title_align: left
         content: >-
