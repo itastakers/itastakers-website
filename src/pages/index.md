@@ -194,7 +194,9 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: Sentinel-turing-4 su Keplr con IBC
-        subtitle: Keplr Wallet
+        subtitle: >-
+          “Abbiamo messo a disposizione un tool per integrare la testnet
+          sentinel-turing-4 su Keplr e testare le funzionalità di IBC.
         image: images/kepler-logo.png
         image_alt: Person 2 photo
         media_position: left
