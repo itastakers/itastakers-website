@@ -167,10 +167,7 @@ sections:
     features:
       - title: Cosa significa Staking
         subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: "Alcune blockchain come quella di\_Cosmos Hub e Polkadot\_e per ora parzialmente anche\_[Ethereum](https://www.ethereum.org/)\_usano un algoritmo di consenso chiamato\_**Proof of Stake**. La differenza tra queste e le blockchain tradizionali è che la rete viene messa in sicurezza non tramite\_**Mining**\_ma tramite\_**Staking**. I nodi validatori infatti devono bloccare una certa quantità di token/coin per poter validare le transazioni ed ottenere block reward\n"
         actions:
           - label: Take a look
             url: /pricing
