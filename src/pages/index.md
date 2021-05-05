@@ -235,7 +235,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 10
-  - title: lorem-ipsum
+  - title: Faq
     subtitle: Domane Frequenti
     actions: []
     grid_items: []
