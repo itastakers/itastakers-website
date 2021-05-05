@@ -242,8 +242,7 @@ sections:
       Cosmos Hub, o di contattarci!
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: "## Cos'è un validatore?\n\n[Cosmos Hub](https://gitlab.com/crypticality/itastakers/master/what-is-gaia.md)\_è basato su\_[Tendermint](https://tendermint.com/docs/introduction/what-is-tendermint.html), che fa uso di un set di validatori per mettere in sicurezza la rete. Il ruolo dei validatori è di tenere attivo un full-node e di partecipare all'algoritmo di consenso emettendo voti firmati e crittografati con la loro chiave privata. I validatori inviano nuovi blocchi alla blockchain e ricevono un premio in cambio del loro lavoro. Infine, devono anche partecipare al governo della blockchain votando le proposte sottoposte dalla community. I validatori hanno un peso diverso a seconda del totale allocato come stake.\n\n"
         content_align: left
         actions: []
