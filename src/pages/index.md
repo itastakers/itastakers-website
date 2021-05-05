@@ -210,7 +210,7 @@ sections:
       - label: Twitter
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Discord
         url: /pricing
         style: secondary
         has_icon: false
