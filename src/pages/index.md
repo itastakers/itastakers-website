@@ -77,9 +77,10 @@ sections:
         image_position: top
       - title: Persistence
         title_align: left
-        content: >-
-          Get color-bello notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >+
+          Persistence è nata per costruire un ecosistema di prodotti finanziari
+          utili a servire gli utenti istituzionali e cripto-nativi. Token XPRT
+
         content_align: left
         actions:
           - label: Delega Ora
