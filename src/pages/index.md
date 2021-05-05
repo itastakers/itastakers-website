@@ -58,9 +58,9 @@ sections:
         image_position: top
       - title: Sentinel
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Sentinel, offre servizi di anonimato tramite VPN decentralizzata.
+          Token DVPN
         content_align: left
         actions:
           - label: Delega Ora
