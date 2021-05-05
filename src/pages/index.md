@@ -165,7 +165,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Comprehensive Task List
+      - title: Cosa significa Staking
         subtitle: Always be in control
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
