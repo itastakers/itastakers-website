@@ -138,9 +138,10 @@ sections:
         image_position: top
       - title: Desmos
         title_align: left
-        content: >-
-          Get color-bello notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Desmos, social decentralizzato su ecosistema Cosmos. Il primo progetto
+          ad aver avviato una testnet non incentivata con 140 validatori. Token
+          DSM
         content_align: left
         actions:
           - label: Delega Ora
