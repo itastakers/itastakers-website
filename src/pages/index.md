@@ -118,10 +118,10 @@ sections:
         image_position: top
       - title: Juno
         title_align: left
-        content: >-
-          Get color-bello notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.       
-          content_align: left
+        content: >
+          Juno, partito a fine aprile 2021 utilizzando stargate è in testnet e
+          ha l'obiettivo di integrare varie funzionalità di smart contract per
+          Cosmos
         actions:
           - label: Delega Ora
             url: /
