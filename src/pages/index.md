@@ -193,7 +193,7 @@ sections:
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: Testnet sentinel-turing-4 su Keplr con IBC
+      - title: Sentinel-turing-4 su Keplr con IBC
         subtitle: Keplr Wallet
         image: images/kepler-logo.png
         image_alt: Person 2 photo
