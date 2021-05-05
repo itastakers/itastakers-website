@@ -196,7 +196,7 @@ sections:
       - title: >-
           “Abbiamo messo a disposizione un tool per integrare la testnet
           sentinel-turing-4 su Keplr e testare le funzionalità di IBC.”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: Keplr Wallet
         image: images/kepler-logo.png
         image_alt: Person 2 photo
         media_position: left
