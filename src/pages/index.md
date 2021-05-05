@@ -59,8 +59,8 @@ sections:
       - title: Sentinel
         title_align: left
         content: >
-          Sentinel, offre servizi di anonimato tramite VPN decentralizzata.
-          Token DVPN. In mainnet da marzo 2021
+          Sentinel, blockchain che offre servizi di anonimato tramite VPN
+          decentralizzata. In mainnet da marzo 2021. Token DVPN
         content_align: left
         actions:
           - label: Delega Ora
