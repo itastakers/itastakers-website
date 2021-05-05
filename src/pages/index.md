@@ -246,7 +246,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: fffff
+        label: >-
+          Abbiamo riassunto le domande più frequenti in questa breve lista. Se
+          non trovate quello che cercate vi consigliamo di leggere la guida
+          ufficiale di Cosmos Hub, o di contattarci!
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
