@@ -238,10 +238,7 @@ sections:
   - type: blog_feed_section
     title: Faq
     subtitle: What's Up?
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
+    actions: []
     blog_feed_cols: two
     enable_cards: true
     show_recent: true
