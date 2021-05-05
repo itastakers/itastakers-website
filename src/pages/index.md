@@ -185,7 +185,10 @@ sections:
   - type: features_section
     features:
       - title: Testnet Trakcer - Copernicus
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: >-
+          Portale sviluppato e rilasciato open source che consente ai vari team
+          di aggiornare lo stato d'avanzamento del progetto nelle varie
+          versione.
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
