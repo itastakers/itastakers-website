@@ -255,17 +255,22 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ## Cosa significa Staking?
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Cosmos Hub è una blockchain pubblica basata su Proof-Of-Stake (PoS),
+          questo significa che il peso di ogni nodo validatore è determinato
+          dalla quantità di token (Atoms) bloccati in stake come collaterale.
+          Questi Atoms possono essere assegnati dallo stesso nodo validatore o
+          delegati da altri token holders tramite le apposite app wallet.
+          Qualsiasi utente può dichiarare la sua intenzione a diventare un
+          validatore, inviando una transazione create-validator alla rete e
+          diventando immediatamente un candidato. Il peso (voting power) di un
+          validatore determina se è un validatore attivo o no. Infatti
+          inizialmente solo i primi 100 validatori con più voting power saranno
+          validatori attivi e potranno quindi votare i blocchi.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
