@@ -236,7 +236,10 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - title: Faq
-    subtitle: Domane Frequenti
+    subtitle: >-
+      Abbiamo riassunto le domande più frequenti in questa breve lista. Se non
+      trovate quello che cercate vi consigliamo di leggere la guida ufficiale di
+      Cosmos Hub, o di contattarci!
     actions: []
     grid_items:
       - title: lorem-ipsum
