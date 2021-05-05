@@ -282,17 +282,24 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Cos'è un full node?
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Un full-node è un programma che valida integralmente le transazioni e
+          i blocchi di una blockchain. È differente dai light-node in quanto
+          quest'ultimi processano solo le intestazioni dei blocchi ed un sotto
+          insieme ridotto di transazioni. Avere un full-node richiede più
+          risorse di un light-node ma è necessario per diventare un validatore.
+          In sostanza per avere un full-node bisogna avere una versione
+          funzionante, non compromessa e aggiornata del software e di una
+          connessione con bassa latenza e senza nessun downtime. Ovviamente è
+          possibile, e consigliato, per qualsiasi utente far girare il proprio
+          full-node anche se non si ha intenzione di diventare validatori
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
+          *
         content_align: left
         actions: []
         actions_align: left
