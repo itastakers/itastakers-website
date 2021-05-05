@@ -71,7 +71,7 @@ sections:
             icon_position: center
         actions_align: left
         image: images/sentinel-logo.svg
-        image_alt: Icon 2
+        image_alt: sentinel
         image_align: center
         image_has_padding: true
         image_position: top
