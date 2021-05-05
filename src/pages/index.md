@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/maroon-celery.jpg
+        image: images/bitsong-logo-mainnet.jpg
         image_alt: Icon 1
         image_align: center
         image_has_padding: true
