@@ -109,7 +109,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/iris-logo.png
+        image: images/iris-logo.jpg
         image_alt: Icon 3
         image_align: center
         image_has_padding: true
