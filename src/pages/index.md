@@ -170,7 +170,7 @@ sections:
         content: "Alcune blockchain come quella di\_Cosmos Hub e Polkadot\_e per ora parzialmente anche\_[Ethereum](https://www.ethereum.org/)\_usano un algoritmo di consenso chiamato\_**Proof of Stake**. La differenza tra queste e le blockchain tradizionali è che la rete viene messa in sicurezza non tramite\_**Mining**\_ma tramite\_**Staking**. I nodi validatori infatti devono bloccare una certa quantità di token/coin per poter validare le transazioni ed ottenere block reward\n"
         actions:
           - label: Github ufficiale di Cosmos
-            url: /pricing
+            url: 'https://github.com/cosmos'
             style: secondary
             has_icon: true
             icon: arrow-right
