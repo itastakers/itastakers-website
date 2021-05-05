@@ -29,7 +29,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contattaci",
+                "label": "Telegram",
                 "url": "/pricing",
                 "style": "primary"
             }
