@@ -236,7 +236,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Domane Frequenti
     actions: []
     grid_items: []
     grid_cols: three
