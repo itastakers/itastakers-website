@@ -97,9 +97,11 @@ sections:
         image_position: top
       - title: IRIS Hub
         title_align: left
-        content: >-
-          Get color-bello notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >+
+          Costruita con Cosmos-SDK, IRIS Hub consente l'interoperabilità
+          cross-chain attraverso un modello di servizio unificato, fornendo una
+          varietà di moduli per supportare le applicazioni DeFi. Token IRIS
+
         content_align: left
         actions:
           - label: Delega Ora
