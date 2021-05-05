@@ -13,7 +13,6 @@ excerpt: >-
   We often forget to make time on the calendar for the things and people that
   matter most. Make sure your calendar and task list reflect the personal calls
   and family time you need.
-thumb_image: images/post-2.jpg
 thumb_image_alt: Post 4 placeholder image
 image: images/post-2.jpg
 image_alt: Post 4 placeholder image
