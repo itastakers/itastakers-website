@@ -184,7 +184,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Testnet Trakcer - Copernicus
+      - title: Testnet Tracker - Copernicus
         subtitle: >-
           Portale sviluppato e rilasciato open source che consente ai vari team
           di aggiornare lo stato d'avanzamento del progetto nelle varie
