@@ -296,10 +296,6 @@ sections:
           connessione con bassa latenza e senza nessun downtime. Ovviamente è
           possibile, e consigliato, per qualsiasi utente far girare il proprio
           full-node anche se non si ha intenzione di diventare validatori
-
-
-
-          *
         content_align: left
         actions: []
         actions_align: left
