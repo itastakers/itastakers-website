@@ -80,7 +80,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Persistence",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
