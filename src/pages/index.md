@@ -189,7 +189,7 @@ sections:
           Portale sviluppato e rilasciato open source che consente ai vari team
           di aggiornare lo stato d'avanzamento del progetto nelle varie
           versione.
-        image: images/person-1.png
+        image: images/copernicus.JPG
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
