@@ -131,7 +131,7 @@ sections:
             icon_position: center
         actions_align: left
         actions_width: auto
-        image: images/juno.jpg
+        image: images/juno-logo.jpg
         image_alt: Icon 3
         image_align: center
         image_has_padding: true
