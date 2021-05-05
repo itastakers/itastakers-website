@@ -60,7 +60,7 @@ sections:
         title_align: left
         content: >
           Sentinel, offre servizi di anonimato tramite VPN decentralizzata.
-          Token DVPN
+          Token DVPN. In mainnet da marzo 2021
         content_align: left
         actions:
           - label: Delega Ora
