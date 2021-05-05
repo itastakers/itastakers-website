@@ -193,7 +193,9 @@ sections:
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: “A very useful project management app. I use it every day.”
+      - title: >-
+          “Abbiamo messo a disposizione un tool per integrare la testnet
+          sentinel-turing-4 su Keplr e testare le funzionalità di IBC.”
         subtitle: 'Travis Guidelines, Manager at Company'
         image: images/kepler-logo.png
         image_alt: Person 2 photo
