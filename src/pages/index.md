@@ -50,15 +50,6 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: center
-          - label: www
-            url: 'https://bitsong.io'
-            style: primary
-            has_icon: false
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
         actions_align: left
         image: images/bitsong-logo-mainnet.jpg
         image_alt: Icon 1
