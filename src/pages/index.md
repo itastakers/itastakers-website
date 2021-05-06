@@ -47,7 +47,7 @@ sections:
           - label: Delega Ora
             url: /
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: center
           - label: lorem-ipsum
