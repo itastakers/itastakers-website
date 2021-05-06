@@ -30,7 +30,7 @@
         "secondary_nav_links": [
             {
                 "label": "CONTATTI",
-                "url": "https://t.me/itastakers",
+                "url": "mailto:\\\\itastakers@gmail.com",
                 "style": "primary"
             }
         ],
