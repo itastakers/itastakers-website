@@ -126,7 +126,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Copernicus",
-                "url": "/terms-conditions",
+                "url": "https://copernicus.itastakers.com/",
                 "style": "link"
             },
             {
