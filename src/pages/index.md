@@ -52,7 +52,7 @@ sections:
             icon_position: center
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
