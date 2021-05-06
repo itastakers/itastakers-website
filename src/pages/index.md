@@ -65,7 +65,7 @@ sections:
         content_align: left
         actions:
           - label: Delega Ora
-            url: /
+            url: 'https://github.com/itastakers/guides/tree/main/pages'
             style: secondary
             has_icon: false
             icon: arrow-right
