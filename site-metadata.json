@@ -29,7 +29,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "TELEGRAM",
+                "label": "CONTATTI",
                 "url": "https://t.me/itastakers",
                 "style": "primary"
             }
