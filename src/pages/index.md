@@ -48,7 +48,7 @@ sections:
             url: /
             style: secondary
             has_icon: false
-            icon: arrow-left
+            icon: arrow-right
             icon_position: center
           - label: lorem-ipsum
             url: '#'
