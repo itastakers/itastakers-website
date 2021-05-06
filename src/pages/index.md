@@ -65,6 +65,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
+        image_width: thirty-three
       - title: Sentinel
         title_align: left
         content: >
