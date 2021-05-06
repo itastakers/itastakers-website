@@ -30,7 +30,7 @@
         "secondary_nav_links": [
             {
                 "label": "TELEGRAM",
-                "url": "/pricing",
+                "url": "https://t.me/itastakers",
                 "style": "primary"
             }
         ],
