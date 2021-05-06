@@ -50,7 +50,7 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: center
-          - label: lorem-ipsum
+          - label: Website Project
             url: '#'
             style: link
             has_icon: false
