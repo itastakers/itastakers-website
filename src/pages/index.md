@@ -50,7 +50,7 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: center
-          - label: Website
+          - label: www
             url: 'https://bitsong.io'
             style: primary
             has_icon: false
