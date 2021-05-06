@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: center
           - label: Website Project
-            url: '#'
+            url: 'https://bitsong.io'
             style: link
             has_icon: false
             icon: arrow-right
