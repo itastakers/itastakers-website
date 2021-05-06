@@ -42,7 +42,7 @@ sections:
         content: >
           Piattaforma Blockchain Streaming Audio. Completamente Decentralizzata,
           nata nel 2018, in mainnet da marzo 2021
-        content_align: left
+        content_align: center
         actions:
           - label: Delega Ora
             url: /
