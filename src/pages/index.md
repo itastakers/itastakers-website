@@ -52,7 +52,7 @@ sections:
             icon_position: center
           - label: Website
             url: 'https://bitsong.io'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: center
