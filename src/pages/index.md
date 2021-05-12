@@ -322,7 +322,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: ITA Stakers - Community Italia Proof of Stake
+  title: ITA Stakers - Community Italiana Proof of Stake
   description: >-
     Community italiana dedicata al proof of stake, Bitsong, Irisi, Sentinel,
     Persistence, Juno, Desmos
