@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Networks",
-                "url": "/pnetworks",
+                "url": "/networks",
                 "style": "link"
             },
             {
