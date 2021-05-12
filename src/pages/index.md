@@ -11,7 +11,7 @@ sections:
       Cosmos & Polkadot.
     actions:
       - label: I nostri Network
-        url: /pricing
+        url: /#networks
         style: primary
       - label: Medium
         url: /pricing
