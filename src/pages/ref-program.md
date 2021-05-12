@@ -8,9 +8,6 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+## Riservato ai delegatori ITA Stakers
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Novità interessante per i delegatori di ITA Stakers
