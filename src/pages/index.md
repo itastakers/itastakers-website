@@ -212,7 +212,7 @@ sections:
         url: 'https://twitter.com/itastakers'
         style: primary
       - label: Discord
-        url: /pricing
+        url: 'https://discord.gg/5fDYxcTP'
         style: secondary
         has_icon: false
         icon: arrow-left
