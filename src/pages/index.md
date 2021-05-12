@@ -323,7 +323,9 @@ sections:
     type: grid_section
 seo:
   title: ITA Stakers - Community Italia Proof of Stake
-  description: The preview of the App theme
+  description: >-
+    Community italiana dedicata al proof of stake, Bitsong, Irisi, Sentinel,
+    Persistence, Juno, Desmos
   extra:
     - name: 'og:type'
       value: website
