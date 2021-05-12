@@ -322,7 +322,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Stackbit App Theme
+  title: ITA Stakers - Community Italia Proof of Stake
   description: The preview of the App theme
   extra:
     - name: 'og:type'
