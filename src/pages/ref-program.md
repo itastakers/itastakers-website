@@ -10,4 +10,4 @@ template: page
 ---
 ## Riservato ai delegatori ITA Stakers
 
-Novità interessante per i delegatori di ITA Stakers
+Novità interessanti per i delegatori di ITA Stakers
