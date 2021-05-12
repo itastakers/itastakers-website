@@ -14,7 +14,7 @@ sections:
         url: '#networks'
         style: primary
       - label: Medium
-        url: /pricing
+        url: '#'
         style: secondary
       - label: Telegram
         url: 'https://t.me/ITAStakers'
