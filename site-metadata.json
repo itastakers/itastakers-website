@@ -5,7 +5,7 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "App2",
+        "title": "App",
         "logo": "images/logo-dark-itastakers.png",
         "logo_alt": "ITA Stakers logo",
         "has_primary_nav": true,
