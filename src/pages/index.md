@@ -339,7 +339,7 @@ seo:
         Persistence, Juno, Desmos
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/logo-dark-itastakers.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
