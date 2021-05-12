@@ -220,7 +220,7 @@ sections:
         new_window: false
         type: action
       - label: Telegram
-        url: 'https://t.me/itastak'
+        url: 'https://t.me/itastakers'
         style: primary
         has_icon: false
         icon: arrow-left
