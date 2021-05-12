@@ -334,7 +334,9 @@ seo:
       value: ITA Stakers
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: >-
+        Community italiana dedicata al proof of stake, Bitsong, Irisi, Sentinel,
+        Persistence, Juno, Desmos
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
