@@ -348,26 +348,7 @@ sections:
   - title: C'è PoS per Te - Comin soon
     subtitle: Rubrica
     actions: []
-    grid_items:
-      - title: Posthuman
-        subtitle: Storie di Validatori
-        title_align: left
-        content: >
-          ## Block  must go on
-
-
-          Canzone che il validatore Posthuman ha pubblicato e dedicato ai
-          validatori riscuotendo molto successo
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
+    grid_items: []
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
