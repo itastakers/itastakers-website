@@ -164,6 +164,9 @@ sections:
           Desmos, social decentralizzato su ecosistema Cosmos. Il primo progetto
           ad aver avviato una testnet non incentivata con 140 validatori. Token
           DSM
+
+
+          ***TESTNET***
         content_align: left
         actions:
           - label: Delega Ora
