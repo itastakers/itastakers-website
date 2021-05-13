@@ -368,7 +368,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Una proposal per te
+      - title: Lord Frog
         subtitle: Storie di Validatori
         title_align: left
         content: >-
