@@ -47,7 +47,7 @@ sections:
           ***APY 7-20%***
         content_align: left
         actions:
-          - label: Delega
+          - label: Delega Ora
             url: 'https://github.com/itastakers/guides/tree/main/pages'
             style: secondary
             has_icon: false
