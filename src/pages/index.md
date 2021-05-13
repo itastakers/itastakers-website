@@ -59,7 +59,7 @@ sections:
             no_follow: false
             type: action
           - label: bitsong.io
-            url: '#'
+            url: 'https://bitsong.io'
             style: link
             has_icon: false
             icon: arrow-left
