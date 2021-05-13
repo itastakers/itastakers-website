@@ -44,7 +44,7 @@ sections:
           nata nel 2018, in mainnet da marzo 2021.
 
 
-          APY 7-20%
+          **APY 7-20%**
         content_align: left
         actions:
           - label: Delega
