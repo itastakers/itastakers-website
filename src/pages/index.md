@@ -350,7 +350,7 @@ sections:
     actions: []
     grid_items:
       - title: Posthuman
-        subtitle: lorem-ipsum
+        subtitle: Storie di Validatori
         title_align: left
         content: >
           ## Block  must go on
