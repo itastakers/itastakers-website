@@ -41,7 +41,10 @@ sections:
         title_align: left
         content: >
           Piattaforma Blockchain Streaming Audio. Completamente Decentralizzata,
-          nata nel 2018, in mainnet da marzo 2021
+          nata nel 2018, in mainnet da marzo 2021.
+
+
+          APY 7-20%
         content_align: left
         actions:
           - label: Delega
