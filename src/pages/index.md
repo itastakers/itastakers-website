@@ -345,7 +345,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: C'è PoS per Te - Comin soon
+  - title: C'è PoS per Te - Coming soon
     subtitle: Rubrica
     actions: []
     grid_items: []
