@@ -346,7 +346,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: C'è PoS per Te
-    subtitle: lorem-ipsum
+    subtitle: Rubrica
     actions: []
     grid_items:
       - title: lorem-ipsum
