@@ -70,15 +70,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Bitsong.io
-            url: 'https://bitsong.io'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
         actions_align: left
         image: images/bitsong-logo-mainnet.jpg
         image_alt: Icon 1
