@@ -92,10 +92,12 @@ sections:
         image_position: top
       - title: Persistence
         title_align: left
-        content: >+
+        content: >
           Persistence è nata per costruire un ecosistema di prodotti finanziari
           utili a servire gli utenti istituzionali e cripto-nativi. Token XPRT
 
+
+          ***APY 44% - 88%***
         content_align: left
         actions:
           - label: Delega Ora
