@@ -44,7 +44,7 @@ sections:
           nata nel 2018, in mainnet da marzo 2021
         content_align: left
         actions:
-          - label: Delega Ora
+          - label: Delega
             url: 'https://github.com/itastakers/guides/tree/main/pages'
             style: secondary
             has_icon: false
