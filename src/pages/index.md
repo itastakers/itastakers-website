@@ -349,7 +349,7 @@ sections:
     subtitle: Rubrica
     actions: []
     grid_items:
-      - title: Coming soon
+      - title: Posthuman
         subtitle: lorem-ipsum
         title_align: left
         content: >-
