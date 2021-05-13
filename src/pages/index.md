@@ -369,7 +369,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Una proposal per te
-        subtitle: lorem-ipsum
+        subtitle: Storie di Validatori
         title_align: left
         content: >-
           ## Lorem ipsum
