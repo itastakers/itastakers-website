@@ -58,7 +58,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: bitsong.io
+          - label: Bitsong.io
             url: 'https://bitsong.io'
             style: link
             has_icon: false
