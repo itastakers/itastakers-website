@@ -49,7 +49,7 @@ sections:
         actions:
           - label: Delega
             url: 'https://github.com/itastakers/guides/tree/main/pages'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-right
             icon_position: center
