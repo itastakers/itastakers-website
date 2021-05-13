@@ -114,11 +114,13 @@ sections:
         image_position: top
       - title: IRIS Hub
         title_align: left
-        content: >+
+        content: >
           Costruita con Cosmos-SDK, IRIS Hub consente l'interoperabilità
           cross-chain attraverso un modello di servizio unificato, fornendo una
           varietà di moduli per supportare le applicazioni DeFi. Token IRIS
 
+
+          ***APY 7% - 20%***
         content_align: left
         actions:
           - label: Delega Ora
