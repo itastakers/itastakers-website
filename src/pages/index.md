@@ -141,6 +141,9 @@ sections:
           Juno, partito a fine aprile 2021 utilizzando stargate è in testnet e
           ha l'obiettivo di integrare varie funzionalità di smart contract per
           Cosmos
+
+
+          ***TESTNET***
         actions:
           - label: Delega Ora
             url: 'https://github.com/itastakers/guides/tree/main/pages'
