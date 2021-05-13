@@ -50,8 +50,7 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: center
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
