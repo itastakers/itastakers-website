@@ -212,7 +212,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Hai bisogno di un Validatore Professionale?
         title_align: left
         content: >
           Cerchi un validatore professionale per il tuo progetto? Contattaci per
