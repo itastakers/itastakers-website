@@ -182,7 +182,6 @@ sections:
         image_has_padding: true
         image_position: top
       - title: BitCanna
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
