@@ -209,7 +209,7 @@ sections:
         actions_width: auto
         image_alt: phala network
         image_position: top
-        image_width: fifty
+        image_width: twenty-five
         image_align: left
         image_has_padding: false
         type: grid_item
