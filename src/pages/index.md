@@ -14,7 +14,7 @@ sections:
         url: '#networks'
         style: primary
       - label: Medium
-        url: 'https://itastakers.medium.com/'
+        url: 'https://blog.itastakers.com'
         style: secondary
       - label: Telegram
         url: 'https://t.me/ITAStakers'
