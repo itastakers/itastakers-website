@@ -154,7 +154,7 @@ sections:
         actions_align: left
         actions_width: auto
         image: images/polite-elm.jpg
-        image_alt: Icon 3
+        image_alt: juno
         image_align: center
         image_has_padding: true
         image_position: top
