@@ -200,7 +200,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Phala Network
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
