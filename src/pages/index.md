@@ -226,8 +226,8 @@ sections:
         image_alt: richiesta validatore
         image_position: top
         image_width: twenty-five
-        image_align: left
-        image_has_padding: false
+        image_align: center
+        image_has_padding: true
         type: grid_item
         image: images/answer.jpg
     grid_cols: three
