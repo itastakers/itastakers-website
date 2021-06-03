@@ -229,7 +229,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/answer.jpg
+        image: images/richiesta-validatore.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
