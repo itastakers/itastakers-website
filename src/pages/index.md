@@ -186,6 +186,9 @@ sections:
         content: >
           Network basato su Cosmos per mettere in connessione le aziende che
           trattano la cannabis tramite blockchain
+
+
+          **TESTNET**
         content_align: left
         actions: []
         actions_align: left
