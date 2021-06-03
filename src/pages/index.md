@@ -223,7 +223,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: answer
+        image_alt: richiesta validatore
         image_position: top
         image_width: fifty
         image_align: left
