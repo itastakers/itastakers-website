@@ -213,6 +213,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/phala-logo.jpg
       - title: Hai bisogno di un Validatore Professionale?
         title_align: left
         content: >
