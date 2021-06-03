@@ -201,14 +201,7 @@ sections:
         type: grid_item
       - title: Phala Network
         title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+        content: "Phala Network\_garantisce l'esecuzione affidabile di contratti intelligenti mantenendo i dati in segreto. I contratti riservati vengono eseguiti nei nodi di lavoro TEE con hardware compatibile con Trusted Computing, che garantisce la segretezza dei dati del contratto.\n\n**TESTNET\n**\n"
         content_align: left
         actions: []
         actions_align: left
