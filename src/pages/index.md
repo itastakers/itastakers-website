@@ -181,7 +181,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-      - title: lorem-ipsum
+      - title: BitCanna
         subtitle: lorem-ipsum
         title_align: left
         content: >
